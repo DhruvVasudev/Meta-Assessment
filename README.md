@@ -114,9 +114,17 @@ Bling:      Diamond Earrings
 4
 ```
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Contact
+
+If you have any questions or suggestions, feel free to open an issue or contact me at dhruv.sharma352@gmail.com
 
 ---
 
